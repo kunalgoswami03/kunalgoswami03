@@ -1,13 +1,63 @@
-I'm a Computer Science student passionate about technology and coding. I enjoy building robust and efficient software, and I'm always eager to learn new skills and explore different areas of development.
+# Hi, I'm Kunal Goswami 👋
 
-🔧 Technologies & Skills:
-Core Java: Proficient in building applications with a strong foundation in Java, focusing on object-oriented programming and design patterns.
-Mobile Development: Experienced in creating mobile applications, with a focus on Android development.
-Front-End Development: Skilled in crafting responsive and interactive web pages using HTML, CSS, and JavaScript.
-🚀 What I'm Working On:
-Currently, I'm diving deeper into full-stack development and exploring frameworks that enhance both front-end and back-end capabilities.
+🎓 Computer Science student at York University
+💻 Passionate about Java, backend development, APIs, and software design
+🚀 Currently learning Spring Boot and improving full-stack development skills
 
-🌱 Always Learning:
-I'm continually expanding my knowledge in various programming languages and tools, aiming to become a versatile developer.
+## 🛠️ Tech Stack
 
-Feel free to check out my repositories, and let's connect!
+### Languages
+
+* Java
+* Python
+* JavaScript
+* SQL
+* C
+
+### Backend
+
+* REST APIs
+* Java Backend Development Basics
+* Node.js (Basic)
+
+### Frontend
+
+* HTML
+* CSS
+* Tailwind CSS
+* JavaFX
+
+### Database
+
+* MySQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Maven
+* Docker
+* JUnit
+* Eclipse
+* VS Code
+
+## 📌 Interests
+
+* Backend Development
+* Software Engineering
+* API Development
+* Problem Solving
+* Full-Stack Development
+
+## 📈 Currently Working On
+
+* Improving Java backend development skills
+* Learning Spring Boot and RESTful services
+* Building personal and academic projects
+
+## 📫 Connect With Me
+
+* LinkedIn: [[](https://www.linkedin.com/in/kunal-goswami-728a8922a/)]
+* Email: [kunalgggoswami@gmail.com]
+
+Thanks for visiting my profile 🚀
