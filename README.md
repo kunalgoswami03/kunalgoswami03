@@ -57,7 +57,7 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: [[](https://www.linkedin.com/in/kunal-goswami-728a8922a/)]
+* LinkedIn: [(https://www.linkedin.com/in/kunal-goswami-728a8922a/)]
 * Email: [kunalgggoswami@gmail.com]
 
 Thanks for visiting my profile 🚀
